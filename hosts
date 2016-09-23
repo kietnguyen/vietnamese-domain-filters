@@ -47,3 +47,13 @@ fe80::1%lo0 localhost
 
 # thanhnien
 0.0.0.0 quangcao.thanhnien.vn
+
+# anthill
+0.0.0.0 anthill.vn
+0.0.0.0 e-vcdn.anthill.vn
+0.0.0.0 st-a.anthill.vn
+
+# 24h
+0.0.0.0 game.24h.com.vn
+0.0.0.0 static.24h.com.vn
+0.0.0.0 thongke.24h.com.vn
