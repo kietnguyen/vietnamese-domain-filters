@@ -10,12 +10,17 @@
 ::1 localhost
 fe80::1%lo0 localhost
 
+# eclick
 0.0.0.0 eclick.vn
 0.0.0.0 st.l.a.eclick.vn
 0.0.0.0 iad.eclick.vn
+
+# polyad
 0.0.0.0 polyad.net
 0.0.0.0 st.core.polyad.net
 0.0.0.0 st.polyad.net
+
+# vnecdn
 0.0.0.0 raovat.vnecdn.net
 0.0.0.0 img.f1.raovat.vnecdn.net
 0.0.0.0 img.f2.raovat.vnecdn.net
@@ -31,13 +36,14 @@ fe80::1%lo0 localhost
 0.0.0.0 img.f26.kinhdoanh.vnecdn.net
 0.0.0.0 img.f27.kinhdoanh.vnecdn.net
 0.0.0.0 img.f28.kinhdoanh.vnecdn.net
-0.0.0.0 anthill.vn
-0.0.0.0 adtima.vn
-0.0.0.0 adtimaserver.vn
-0.0.0.0 ad360.vn
-0.0.0.0 adnetwork.vn
-0.0.0.0 admicro.vcmedia.vn
-0.0.0.0 admicro.vn
 
-0.0.0.0 vietad.vn
-0.0.0.0 ad.zing.vn
+# admicro
+0.0.0.0 admicro.vn
+0.0.0.0 media1.admicro.vn
+
+# epi
+0.0.0.0 epi.vn
+0.0.0.0 log.tn.epi.vn
+
+# thanhnien
+0.0.0.0 quangcao.thanhnien.vn
