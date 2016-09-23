@@ -1,21 +1,27 @@
 # hosts file for Vietnamese websites
-# updated on 23 September 2016
+# Date: September 23 2016
+# Number of unique domains: 14
 
 127.0.0.1 localhost
-::1 localhost #[ipv6]
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+fe80::1%lo0 localhost
 
-127.0.0.1 eclick.vn
-127.0.0.1 anthill.vn
-127.0.0.1 adtima.vn
-127.0.0.1 adtimaserver.vn
-127.0.0.1 ad360.vn
-127.0.0.1 adnetwork.vn
-127.0.0.1 admicro.vcmedia.vn
-127.0.0.1 admicro.vn
-127.0.0.1 polyad.net
-127.0.0.1 vietad.vn
-127.0.0.1 ad.zing.vn
-127.0.0.1 vietid.net
-127.0.0.1 ad.vatgia.com
-127.0.0.1 adv.lavanetwork.net
-127.0.0.1 vnecdn.net
+# [Vietnam]
+
+0.0.0.0 eclick.vn
+0.0.0.0 anthill.vn
+0.0.0.0 adtima.vn
+0.0.0.0 adtimaserver.vn
+0.0.0.0 ad360.vn
+0.0.0.0 adnetwork.vn
+0.0.0.0 admicro.vcmedia.vn
+0.0.0.0 admicro.vn
+0.0.0.0 polyad.net
+0.0.0.0 vietad.vn
+0.0.0.0 ad.zing.vn
+0.0.0.0 vietid.net
+0.0.0.0 ad.vatgia.com
+0.0.0.0 adv.lavanetwork.net
