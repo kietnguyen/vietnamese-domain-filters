@@ -55,7 +55,9 @@ fe80::1%lo0 localhost
 
 # 24h
 0.0.0.0 game.24h.com.vn
-0.0.0.0 static.24h.com.vn
 0.0.0.0 thongke.24h.com.vn
 0.0.0.0 24hstatic.com
 0.0.0.0 24h-img.24hstatic.com
+
+# tuoitre
+0.0.0.0 s.tuoitre.vn
