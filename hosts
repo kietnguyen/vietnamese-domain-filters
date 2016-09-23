@@ -1,6 +1,8 @@
 # hosts file for Vietnamese websites
 # Date: September 23 2016
 # Number of unique domains: 14
+# Project homepage: https://github.com/snhv/hosts
+# Raw hosts file: https://raw.githubusercontent.com/snhv/hosts/master/hosts
 
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
@@ -22,6 +24,3 @@ fe80::1%lo0 localhost
 0.0.0.0 polyad.net
 0.0.0.0 vietad.vn
 0.0.0.0 ad.zing.vn
-0.0.0.0 vietid.net
-0.0.0.0 ad.vatgia.com
-0.0.0.0 adv.lavanetwork.net
