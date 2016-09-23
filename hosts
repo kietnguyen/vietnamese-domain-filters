@@ -23,7 +23,14 @@ fe80::1%lo0 localhost
 0.0.0.0 img.f4.raovat.vnecdn.net
 0.0.0.0 shop.vnecdn.net
 0.0.0.0 img.f1.shop.vnecdn.net
-0.0.0.0 img.f1.shop.vnecdn.net
+0.0.0.0 img.f2.shop.vnecdn.net
+0.0.0.0 img.f3.shop.vnecdn.net
+0.0.0.0 img.f4.shop.vnecdn.net
+0.0.0.0 kinhdoanh.vnecdn.net
+0.0.0.0 img.f25.kinhdoanh.vnecdn.net
+0.0.0.0 img.f26.kinhdoanh.vnecdn.net
+0.0.0.0 img.f27.kinhdoanh.vnecdn.net
+0.0.0.0 img.f28.kinhdoanh.vnecdn.net
 0.0.0.0 anthill.vn
 0.0.0.0 adtima.vn
 0.0.0.0 adtimaserver.vn
