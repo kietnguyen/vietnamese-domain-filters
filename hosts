@@ -14,6 +14,7 @@ fe80::1%lo0 localhost
 0.0.0.0 eclick.vn
 0.0.0.0 st.l.a.eclick.vn
 0.0.0.0 iad.eclick.vn
+0.0.0.0 c.eclick.vn
 
 # polyad
 0.0.0.0 polyad.net
