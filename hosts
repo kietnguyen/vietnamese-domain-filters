@@ -1,0 +1,21 @@
+# hosts file for Vietnamese websites
+# updated on 23 September 2016
+
+127.0.0.1 localhost
+::1 localhost #[ipv6]
+
+127.0.0.1 eclick.vn
+127.0.0.1 anthill.vn
+127.0.0.1 adtima.vn
+127.0.0.1 adtimaserver.vn
+127.0.0.1 ad360.vn
+127.0.0.1 adnetwork.vn
+127.0.0.1 admicro.vcmedia.vn
+127.0.0.1 admicro.vn
+127.0.0.1 polyad.net
+127.0.0.1 vietad.vn
+127.0.0.1 ad.zing.vn
+127.0.0.1 vietid.net
+127.0.0.1 ad.vatgia.com
+127.0.0.1 adv.lavanetwork.net
+127.0.0.1 vnecdn.net
