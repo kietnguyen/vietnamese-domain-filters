@@ -23,22 +23,88 @@ fe80::1%lo0 localhost
 0.0.0.0	stla.eclick.vn
 0.0.0.0	st.l.a.eclick.vn
 0.0.0.0	static.eclick.vn
+0.0.0.0	log.eclick.vn     
+0.0.0.0	log.pv.eclick.vn     
+	
+#	admicro
+0.0.0.0	admicro.vn
+0.0.0.0	media1.admicro.vn
+0.0.0.0	logging.admicro.vn
+0.0.0.0	dl.logging.admicro.vn
+0.0.0.0	lg.logging.admicro.vn
+0.0.0.0	lg1.logging.admicro.vn
+0.0.0.0	pson.logging.admicro.vn
+	
+#	vcmedia
+0.0.0.0	vcmedia.vn
+0.0.0.0	admicro1.vcmedia.vn
+0.0.0.0	admicro2.vcmedia.vn
+0.0.0.0	admicro3.vcmedia.vn
+0.0.0.0	admicro4.vcmedia.vn
+0.0.0.0	admicro5.vcmedia.vn
+0.0.0.0	admicro6.vcmedia.vn
 	
 #	adnetwork
 0.0.0.0	adnetwork.vn
 0.0.0.0	rta.adnetwork.vn
+0.0.0.0	delivery.adnetwork.vn
+0.0.0.0	imp.adnetwork.vn
+0.0.0.0	media.adnetwork.vn
+	
+#	adtima
+0.0.0.0	adtimaserver.vn
+0.0.0.0	static.adtimaserver.vn
+0.0.0.0	api.adtimaserver.vn
+0.0.0.0	log.adtimaserver.vn
+0.0.0.0	media.adtimaserver.vn
+	
+#	ad360
+0.0.0.0	ad360.vn
+0.0.0.0	provider.ad360.vn
+0.0.0.0	s.ad360.vn
+0.0.0.0	xcache.ad360.vn
+	
+#	anthill
+0.0.0.0	anthill.vn
+0.0.0.0	e.anthill.vn
+0.0.0.0	st-a.anthill.vn
+0.0.0.0	e-vcdn.anthill.vn
+0.0.0.0	c0-vcdn.anthill.vn
+	
+#	ants
+0.0.0.0	ants.vn
+0.0.0.0	d.ants.vn
+0.0.0.0	t.ants.vn
+0.0.0.0	au.ants.vn
+0.0.0.0	st-au.ants.vn
 	
 #	polyad
 0.0.0.0	polyad.net
 0.0.0.0	st.polyad.net
 0.0.0.0	st.core.polyad.net
 	
+#	epi
+0.0.0.0	epi.vn
+0.0.0.0	log.tn.epi.vn
+	
+#	ambient-platform
+0.0.0.0	ambient-platform.com
+0.0.0.0	analytics.ambient-platform.com
+0.0.0.0	ambientplatform.vn
+0.0.0.0	cdn.ambientplatform.vn
+	
 #	vnecdn
+0.0.0.0	qc.st.f1.vnecdn.net
+0.0.0.0	st.f2.vnecdn.net
+0.0.0.0	c0.f37.img.vnecdn.net
+0.0.0.0	c0.f38.img.vnecdn.net
 0.0.0.0	raovat.vnecdn.net
 0.0.0.0	img.f1.raovat.vnecdn.net
 0.0.0.0	img.f2.raovat.vnecdn.net
 0.0.0.0	img.f3.raovat.vnecdn.net
 0.0.0.0	img.f4.raovat.vnecdn.net
+0.0.0.0	st.f2.raovat.vnecdn.net
+0.0.0.0	st.f3.raovat.vnecdn.net
 0.0.0.0	shop.vnecdn.net
 0.0.0.0	img.f1.shop.vnecdn.net
 0.0.0.0	img.f2.shop.vnecdn.net
@@ -49,22 +115,25 @@ fe80::1%lo0 localhost
 0.0.0.0	img.f26.kinhdoanh.vnecdn.net
 0.0.0.0	img.f27.kinhdoanh.vnecdn.net
 0.0.0.0	img.f28.kinhdoanh.vnecdn.net
+0.0.0.0	gamethu.vnecdn.net
+0.0.0.0	st.f1.gamethu.vnecdn.net
+0.0.0.0	st.f2.gamethu.vnecdn.net
+0.0.0.0	ione.vnecdn.net
+0.0.0.0	img.f17.ione.vnecdn.net
+0.0.0.0	img.f18.ione.vnecdn.net
+0.0.0.0	img.f19.ione.vnecdn.net
+0.0.0.0	img.f20.ione.vnecdn.net
+0.0.0.0	st.f1.ione.vnecdn.net
 	
-#	admicro
-0.0.0.0	admicro.vn
-0.0.0.0	media1.admicro.vn
+#	vnexpress
+0.0.0.0	ione.vnexpress.net
+0.0.0.0	raovat.vnexpress.net
 	
-#	epi
-0.0.0.0	epi.vn
-0.0.0.0	log.tn.epi.vn
+#	tuoitre
+0.0.0.0	s.tuoitre.vn
 	
 #	thanhnien
 0.0.0.0	quangcao.thanhnien.vn
-	
-#	anthill
-0.0.0.0	anthill.vn
-0.0.0.0	st-a.anthill.vn
-0.0.0.0	e-vcdn.anthill.vn
 	
 #	24h
 0.0.0.0	game.24h.com.vn
@@ -72,12 +141,36 @@ fe80::1%lo0 localhost
 0.0.0.0	24hstatic.com
 0.0.0.0	24h-img.24hstatic.com
 	
-#	tuoitre
-0.0.0.0	s.tuoitre.vn
-	
-#	adtima
-0.0.0.0	adtimaserver.vn
-0.0.0.0	static.adtimaserver.vn
-	
 #	zing
 0.0.0.0	log.news.zing.vn
+	
+#	gamethu
+0.0.0.0	gamethu.net
+	
+#	fptad
+0.0.0.0	fptad.com
+0.0.0.0	customers.fptad.com
+0.0.0.0	img.customers.fptad.com
+0.0.0.0	static.customers.fptad.com
+	
+#	mookie1.com
+0.0.0.0	mookie1.com
+0.0.0.0	vn-gmtdmp.mookie1.com
+	
+#	innity
+0.0.0.0	innity.com
+0.0.0.0	avd.innity.com
+0.0.0.0	innity.net
+0.0.0.0	avd.innity.net
+	
+#	sparkling
+0.0.0.0	sparkling.vn
+0.0.0.0	www.sparkling.vn
+	
+#	nixcdn
+0.0.0.0	nixcdn.com
+0.0.0.0	stc.id.nixcdn.com
+0.0.0.0	stc.nas.nixcdn.com
+0.0.0.0	avatar.nct.nixcdn.com
+0.0.0.0	lrc.nct.nixcdn.com
+0.0.0.0	f9.stream.nixcdn.com
