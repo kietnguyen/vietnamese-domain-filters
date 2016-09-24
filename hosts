@@ -23,8 +23,8 @@ fe80::1%lo0 localhost
 0.0.0.0	stla.eclick.vn
 0.0.0.0	st.l.a.eclick.vn
 0.0.0.0	static.eclick.vn
-0.0.0.0	log.eclick.vn     
-0.0.0.0	log.pv.eclick.vn     
+0.0.0.0	log.eclick.vn
+0.0.0.0	log.pv.eclick.vn
 	
 #	admicro
 0.0.0.0	admicro.vn
@@ -173,9 +173,4 @@ fe80::1%lo0 localhost
 0.0.0.0	www.sparkling.vn
 	
 #	nixcdn
-0.0.0.0	nixcdn.com
-0.0.0.0	stc.id.nixcdn.com
 0.0.0.0	stc.nas.nixcdn.com
-0.0.0.0	avatar.nct.nixcdn.com
-0.0.0.0	lrc.nct.nixcdn.com
-0.0.0.0	f9.stream.nixcdn.com
