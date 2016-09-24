@@ -28,12 +28,14 @@ fe80::1%lo0 localhost
 	
 #	admicro
 0.0.0.0	admicro.vn
+0.0.0.0	adi.admicro.vn
 0.0.0.0	media1.admicro.vn
 0.0.0.0	logging.admicro.vn
 0.0.0.0	dl.logging.admicro.vn
 0.0.0.0	lg.logging.admicro.vn
 0.0.0.0	lg1.logging.admicro.vn
 0.0.0.0	pson.logging.admicro.vn
+0.0.0.0	news.admicro.vn
 	
 #	vcmedia
 0.0.0.0	vcmedia.vn
@@ -43,6 +45,9 @@ fe80::1%lo0 localhost
 0.0.0.0	admicro4.vcmedia.vn
 0.0.0.0	admicro5.vcmedia.vn
 0.0.0.0	admicro6.vcmedia.vn
+0.0.0.0	vcplayer.vcmedia.vn
+0.0.0.0	video-thumbs.vcmedia.vn
+0.0.0.0	static.hosting.vcmedia.vn
 	
 #	adnetwork
 0.0.0.0	adnetwork.vn
