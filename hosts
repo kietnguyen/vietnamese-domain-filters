@@ -10,74 +10,74 @@
 ::1 localhost
 fe80::1%lo0 localhost
 
-# eclick
-0.0.0.0 eclick.vn
-0.0.0.0 st.l.a.eclick.vn
-0.0.0.0 iad.eclick.vn
-0.0.0.0 c.eclick.vn
-0.0.0.0 e.eclick.vn
-0.0.0.0 g.eclick.vn
-0.0.0.0 la.eclick.vn
-0.0.0.0 la2.eclick.vn
-0.0.0.0 s.eclick.vn
-0.0.0.0 static.eclick.vn
-0.0.0.0 stla.eclick.vn
-0.0.0.0 t.eclick.vn
-
-# adnetwork
-0.0.0.0 adnetwork.vn
-0.0.0.0 rta.adnetwork.vn
-
-# polyad
-0.0.0.0 polyad.net
-0.0.0.0 st.core.polyad.net
-0.0.0.0 st.polyad.net
-
-# vnecdn
-0.0.0.0 raovat.vnecdn.net
-0.0.0.0 img.f1.raovat.vnecdn.net
-0.0.0.0 img.f2.raovat.vnecdn.net
-0.0.0.0 img.f3.raovat.vnecdn.net
-0.0.0.0 img.f4.raovat.vnecdn.net
-0.0.0.0 shop.vnecdn.net
-0.0.0.0 img.f1.shop.vnecdn.net
-0.0.0.0 img.f2.shop.vnecdn.net
-0.0.0.0 img.f3.shop.vnecdn.net
-0.0.0.0 img.f4.shop.vnecdn.net
-0.0.0.0 kinhdoanh.vnecdn.net
-0.0.0.0 img.f25.kinhdoanh.vnecdn.net
-0.0.0.0 img.f26.kinhdoanh.vnecdn.net
-0.0.0.0 img.f27.kinhdoanh.vnecdn.net
-0.0.0.0 img.f28.kinhdoanh.vnecdn.net
-
-# admicro
-0.0.0.0 admicro.vn
-0.0.0.0 media1.admicro.vn
-
-# epi
-0.0.0.0 epi.vn
-0.0.0.0 log.tn.epi.vn
-
-# thanhnien
-0.0.0.0 quangcao.thanhnien.vn
-
-# anthill
-0.0.0.0 anthill.vn
-0.0.0.0 e-vcdn.anthill.vn
-0.0.0.0 st-a.anthill.vn
-
-# 24h
-0.0.0.0 game.24h.com.vn
-0.0.0.0 thongke.24h.com.vn
-0.0.0.0 24hstatic.com
-0.0.0.0 24h-img.24hstatic.com
-
-# tuoitre
-0.0.0.0 s.tuoitre.vn
-
-# adtima
-0.0.0.0 adtimaserver.vn
-0.0.0.0 static.adtimaserver.vn
-
-# zing
-0.0.0.0 log.news.zing.vn
+#	eclick
+0.0.0.0	eclick.vn
+0.0.0.0	c.eclick.vn
+0.0.0.0	e.eclick.vn
+0.0.0.0	g.eclick.vn
+0.0.0.0	s.eclick.vn
+0.0.0.0	t.eclick.vn
+0.0.0.0	la.eclick.vn
+0.0.0.0	la2.eclick.vn
+0.0.0.0	iad.eclick.vn
+0.0.0.0	stla.eclick.vn
+0.0.0.0	st.l.a.eclick.vn
+0.0.0.0	static.eclick.vn
+	
+#	adnetwork
+0.0.0.0	adnetwork.vn
+0.0.0.0	rta.adnetwork.vn
+	
+#	polyad
+0.0.0.0	polyad.net
+0.0.0.0	st.polyad.net
+0.0.0.0	st.core.polyad.net
+	
+#	vnecdn
+0.0.0.0	raovat.vnecdn.net
+0.0.0.0	img.f1.raovat.vnecdn.net
+0.0.0.0	img.f2.raovat.vnecdn.net
+0.0.0.0	img.f3.raovat.vnecdn.net
+0.0.0.0	img.f4.raovat.vnecdn.net
+0.0.0.0	shop.vnecdn.net
+0.0.0.0	img.f1.shop.vnecdn.net
+0.0.0.0	img.f2.shop.vnecdn.net
+0.0.0.0	img.f3.shop.vnecdn.net
+0.0.0.0	img.f4.shop.vnecdn.net
+0.0.0.0	kinhdoanh.vnecdn.net
+0.0.0.0	img.f25.kinhdoanh.vnecdn.net
+0.0.0.0	img.f26.kinhdoanh.vnecdn.net
+0.0.0.0	img.f27.kinhdoanh.vnecdn.net
+0.0.0.0	img.f28.kinhdoanh.vnecdn.net
+	
+#	admicro
+0.0.0.0	admicro.vn
+0.0.0.0	media1.admicro.vn
+	
+#	epi
+0.0.0.0	epi.vn
+0.0.0.0	log.tn.epi.vn
+	
+#	thanhnien
+0.0.0.0	quangcao.thanhnien.vn
+	
+#	anthill
+0.0.0.0	anthill.vn
+0.0.0.0	st-a.anthill.vn
+0.0.0.0	e-vcdn.anthill.vn
+	
+#	24h
+0.0.0.0	game.24h.com.vn
+0.0.0.0	thongke.24h.com.vn
+0.0.0.0	24hstatic.com
+0.0.0.0	24h-img.24hstatic.com
+	
+#	tuoitre
+0.0.0.0	s.tuoitre.vn
+	
+#	adtima
+0.0.0.0	adtimaserver.vn
+0.0.0.0	static.adtimaserver.vn
+	
+#	zing
+0.0.0.0	log.news.zing.vn
