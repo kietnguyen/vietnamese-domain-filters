@@ -99,8 +99,10 @@ fe80::1%lo0 localhost
 0.0.0.0	cdn.ambientplatform.vn
 	
 #	vnecdn
+0.0.0.0	st.f1.vnecdn.net
 0.0.0.0	qc.st.f1.vnecdn.net
 0.0.0.0	st.f2.vnecdn.net
+0.0.0.0	st.f3.vnecdn.net
 0.0.0.0	c0.f37.img.vnecdn.net
 0.0.0.0	c0.f38.img.vnecdn.net
 0.0.0.0	raovat.vnecdn.net
