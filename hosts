@@ -55,6 +55,7 @@ fe80::1%lo0 localhost
 0.0.0.0	delivery.adnetwork.vn
 0.0.0.0	imp.adnetwork.vn
 0.0.0.0	media.adnetwork.vn
+0.0.0.0	retg.adnetwork.vn
 	
 #	adtima
 0.0.0.0	adtimaserver.vn
@@ -194,3 +195,16 @@ fe80::1%lo0 localhost
 #	vimobi
 0.0.0.0	vimobi.com
 0.0.0.0	ad.vimobi.com
+	
+#	channelvn
+0.0.0.0	channelvn.net
+0.0.0.0	log1.channelvn.net
+0.0.0.0	log2.channelvn.net
+	
+#	ad org
+0.0.0.0	ad.org.vn
+0.0.0.0	serving.ad.org.vn
+	
+#	adap
+0.0.0.0	adap.tv
+0.0.0.0	sync.adap.tv
