@@ -1,6 +1,6 @@
 # hosts file for Vietnamese websites
-# Date: Oct 05 2016
-# Project homepage: https://github.com/snhv/hosts
+# Date: Jan 06 2017
+# Project homepage: https://github.com/snhv/Vietnamese-hosts
 # Raw hosts file: https://raw.githubusercontent.com/snhv/hosts/master/hosts
 
 127.0.0.1 localhost
@@ -116,23 +116,8 @@ fe80::1%lo0 localhost
 0.0.0.0	img.f2.shop.vnecdn.net
 0.0.0.0	img.f3.shop.vnecdn.net
 0.0.0.0	img.f4.shop.vnecdn.net
-0.0.0.0	kinhdoanh.vnecdn.net
-0.0.0.0	img.f25.kinhdoanh.vnecdn.net
-0.0.0.0	img.f26.kinhdoanh.vnecdn.net
-0.0.0.0	img.f27.kinhdoanh.vnecdn.net
-0.0.0.0	img.f28.kinhdoanh.vnecdn.net
-0.0.0.0	gamethu.vnecdn.net
-0.0.0.0	st.f1.gamethu.vnecdn.net
-0.0.0.0	st.f2.gamethu.vnecdn.net
-0.0.0.0	ione.vnecdn.net
-0.0.0.0	img.f17.ione.vnecdn.net
-0.0.0.0	img.f18.ione.vnecdn.net
-0.0.0.0	img.f19.ione.vnecdn.net
-0.0.0.0	img.f20.ione.vnecdn.net
-0.0.0.0	st.f1.ione.vnecdn.net
 	
 #	vnexpress
-0.0.0.0	ione.vnexpress.net
 0.0.0.0	raovat.vnexpress.net
 	
 #	tuoitre
@@ -150,9 +135,6 @@ fe80::1%lo0 localhost
 #	zing
 0.0.0.0	log.news.zing.vn
 	
-#	gamethu
-0.0.0.0	gamethu.net
-	
 #	fptad
 0.0.0.0	fptad.com
 0.0.0.0	customers.fptad.com
@@ -162,12 +144,6 @@ fe80::1%lo0 localhost
 #	mookie1.com
 0.0.0.0	mookie1.com
 0.0.0.0	vn-gmtdmp.mookie1.com
-	
-#	innity
-0.0.0.0	innity.com
-0.0.0.0	avd.innity.com
-0.0.0.0	innity.net
-0.0.0.0	avd.innity.net
 	
 #	sparkling
 0.0.0.0	sparkling.vn
@@ -199,7 +175,7 @@ fe80::1%lo0 localhost
 0.0.0.0	log1.channelvn.net
 0.0.0.0	log2.channelvn.net
 	
-#	ad org
+#	ad.org
 0.0.0.0	ad.org.vn
 0.0.0.0	serving.ad.org.vn
 	
