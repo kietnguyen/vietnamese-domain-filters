@@ -1,7 +1,7 @@
 # hosts file for Vietnamese websites
 # Date: Jan 06 2017
 # Project homepage: https://github.com/snhv/Vietnamese-hosts
-# Raw hosts file: https://raw.githubusercontent.com/snhv/hosts/master/hosts
+# Raw hosts file: https://raw.githubusercontent.com/snhv/Vietnamese-hosts/master/hosts
 
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
