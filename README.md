@@ -1,7 +1,9 @@
-# Vietnamese Filters
+# Vietnamese Domain Filters
 
-Filters for Vietnamese internet users.
+Domain filters for Vietnamese internet users.
 
-Filters are recommended to be used with [uBlock](https://github.com/gorhill/uBlock) or [Adguard](https://github.com/AdguardTeam).
+The filters are advised to be used with [uBlock](https://github.com/gorhill/uBlock) or [Adguard](https://github.com/AdguardTeam).
 
-Filters include [ads filter]() (to block advertisements, trackers, popups, and other annoyances) and [adults filter]() (to block pornography, escort service, dating, and other inappropriate sites).
+The filters include [ads filter]() (to block advertisements, trackers, popups, and other annoyances) and [adults filter]() (to block pornography, escort, dating, and other inappropriate sites).
+
+Please note that these domain filters, as the name suggests, only block at domain level and hence is not as comprehensive as URL filters. For Vietnamese URL filter, [ABPVN](http://abpvn.com/) is recommended.
