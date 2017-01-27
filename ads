@@ -35,3 +35,5 @@
 ||channelvn.net^
 ||ad.org.vn^
 ||adap.tv^
+||collagenbeauty.vn^
+||bet88.info^
