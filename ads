@@ -1,159 +1,37 @@
-||eclick.vn
-
-	
-#	admicro
-0.0.0.0	admicro.vn
-0.0.0.0	adi.admicro.vn
-0.0.0.0	media1.admicro.vn
-0.0.0.0	logging.admicro.vn
-0.0.0.0	dl.logging.admicro.vn
-0.0.0.0	lg.logging.admicro.vn
-0.0.0.0	lg1.logging.admicro.vn
-0.0.0.0	pson.logging.admicro.vn
-0.0.0.0	news.admicro.vn
-	
-#	vcmedia
-0.0.0.0	admicro1.vcmedia.vn
-0.0.0.0	admicro2.vcmedia.vn
-0.0.0.0	admicro3.vcmedia.vn
-0.0.0.0	admicro4.vcmedia.vn
-0.0.0.0	admicro5.vcmedia.vn
-0.0.0.0	admicro6.vcmedia.vn
-0.0.0.0	adi.vcmedia.vn
-0.0.0.0	vcplayer.vcmedia.vn
-0.0.0.0	video-thumbs.vcmedia.vn
-0.0.0.0	static.hosting.vcmedia.vn
-	
-#	adnetwork
-0.0.0.0	adnetwork.vn
-0.0.0.0	rta.adnetwork.vn
-0.0.0.0	delivery.adnetwork.vn
-0.0.0.0	imp.adnetwork.vn
-0.0.0.0	media.adnetwork.vn
-0.0.0.0	retg.adnetwork.vn
-	
-#	adtima
-0.0.0.0	adtimaserver.vn
-0.0.0.0	static.adtimaserver.vn
-0.0.0.0	api.adtimaserver.vn
-0.0.0.0	log.adtimaserver.vn
-0.0.0.0	media.adtimaserver.vn
-	
-#	ad360
-0.0.0.0	ad360.vn
-0.0.0.0	provider.ad360.vn
-0.0.0.0	s.ad360.vn
-0.0.0.0	xcache.ad360.vn
-	
-#	anthill
-0.0.0.0	anthill.vn
-0.0.0.0	e.anthill.vn
-0.0.0.0	st-a.anthill.vn
-0.0.0.0	e-vcdn.anthill.vn
-0.0.0.0	c0-vcdn.anthill.vn
-	
-#	ants
-0.0.0.0	ants.vn
-0.0.0.0	d.ants.vn
-0.0.0.0	t.ants.vn
-0.0.0.0	au.ants.vn
-0.0.0.0	st-au.ants.vn
-	
-#	polyad
-0.0.0.0	polyad.net
-0.0.0.0	st.polyad.net
-0.0.0.0	st.core.polyad.net
-	
-#	epi
-0.0.0.0	epi.vn
-0.0.0.0	log.tn.epi.vn
-	
-#	ambient-platform
-0.0.0.0	ambient-platform.com
-0.0.0.0	analytics.ambient-platform.com
-0.0.0.0	ambientplatform.vn
-0.0.0.0	cdn.ambientplatform.vn
-	
-#	vnecdn
-0.0.0.0	st.f1.vnecdn.net
-0.0.0.0	qc.st.f1.vnecdn.net
-0.0.0.0	c0.f37.img.vnecdn.net
-0.0.0.0	c0.f38.img.vnecdn.net
-0.0.0.0	raovat.vnecdn.net
-0.0.0.0	img.f1.raovat.vnecdn.net
-0.0.0.0	img.f2.raovat.vnecdn.net
-0.0.0.0	img.f3.raovat.vnecdn.net
-0.0.0.0	img.f4.raovat.vnecdn.net
-0.0.0.0	st.f2.raovat.vnecdn.net
-0.0.0.0	st.f3.raovat.vnecdn.net
-0.0.0.0	shop.vnecdn.net
-0.0.0.0	img.f1.shop.vnecdn.net
-0.0.0.0	img.f2.shop.vnecdn.net
-0.0.0.0	img.f3.shop.vnecdn.net
-0.0.0.0	img.f4.shop.vnecdn.net
-	
-#	vnexpress
-0.0.0.0	raovat.vnexpress.net
-	
-#	tuoitre
-0.0.0.0	s.tuoitre.vn
-	
-#	thanhnien
-0.0.0.0	quangcao.thanhnien.vn
-	
-#	24h
-0.0.0.0	game.24h.com.vn
-0.0.0.0	thongke.24h.com.vn
-0.0.0.0	24hstatic.com
-0.0.0.0	24h-img.24hstatic.com
-	
-#	zing
-0.0.0.0	log.news.zing.vn
-	
-#	fptad
-0.0.0.0	fptad.com
-0.0.0.0	customers.fptad.com
-0.0.0.0	img.customers.fptad.com
-0.0.0.0	static.customers.fptad.com
-	
-#	mookie1.com
-0.0.0.0	mookie1.com
-0.0.0.0	vn-gmtdmp.mookie1.com
-	
-#	sparkling
-0.0.0.0	sparkling.vn
-0.0.0.0	www.sparkling.vn
-	
-#	nixcdn
-0.0.0.0	stc.nas.nixcdn.com
-	
-#	a1515150
-0.0.0.0	a1515150.com 
-0.0.0.0	st-n.a1515150.com
-	
-#	novanet
-0.0.0.0	novanet.vn
-0.0.0.0	f.novanet.vn
-0.0.0.0	static.novanet.vn
-	
-#	onthe
-0.0.0.0	onthe.io
-0.0.0.0	cdn.onthe.io
-0.0.0.0	tt.onthe.io
-	
-#	vimobi
-0.0.0.0	vimobi.com
-0.0.0.0	ad.vimobi.com
-	
-#	channelvn
-0.0.0.0	channelvn.net
-0.0.0.0	log1.channelvn.net
-0.0.0.0	log2.channelvn.net
-	
-#	ad.org
-0.0.0.0	ad.org.vn
-0.0.0.0	serving.ad.org.vn
-	
-#	adap
-0.0.0.0	adap.tv
-0.0.0.0	sync.adap.tv
+||eclick.vn^
+||admicro.vn^
+||admicro*.vcmedia.vn^
+||adi.vcmedia.vn^
+||vcplayer.vcmedia.vn^
+||video-thumbs.vcmedia.vn^
+||static.hosting.vcmedia.vn^
+||adnetwork.vn^
+||adtimaserver.vn^
+||ad360.vn^
+||anthill.vn^
+||ants.vn^
+||polyad.net
+||epi.vn^
+||ambient-platform.com^
+||st.f1.vnecdn.net^
+||f37.img.vnecdn.net^
+||f38.img.vnecdn.net^
+||raovat.vnecdn.net^
+||shop.vnecdn.net^
+||raovat.vnexpress.net^
+||shop.vnexpress.net^
+||s.tuoitre.vn^	
+||quangcao.thanhnien.vn^
+||thongke.24h.com.vn^
+||24hstatic.com^
+||log.news.zing.vn^
+||fptad.com^
+||mookie1.com^
+||sparkling.vn^
+||stc.nas.nixcdn.com^
+||a1515150.com^
+||novanet.vn^
+||vimobi.com^
+||channelvn.net^
+||ad.org.vn^
+||adap.tv^
