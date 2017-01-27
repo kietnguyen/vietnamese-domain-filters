@@ -2,6 +2,6 @@
 
 Filters for Vietnamese internet users.
 
-Filters are recommended to be used with either uBlock Origin (https://github.com/gorhill/uBlock) or Adguard (https://github.com/AdguardTeam)
+Filters are recommended to be used with either [uBlock Origin](https://github.com/gorhill/uBlock) or [Adguard](https://github.com/AdguardTeam).
 
-Get the [raw hosts file](https://raw.githubusercontent.com/snhv/Vietnamese-hosts/master/hosts) here.
+Filters include [adservers filter]() (to block advertisements, trackers, popups, and other annoyances) and [adults filter] (to block pornography, dating, escort services, and other children unfriendly sites).
