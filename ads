@@ -20,10 +20,12 @@
 ||shop.vnecdn.net^
 ||raovat.vnexpress.net^
 ||shop.vnexpress.net^
+||imgshop.vnexpress.net^
 ||s.tuoitre.vn^	
 ||quangcao.thanhnien.vn^
 ||thongke.24h.com.vn^
 ||24hstatic.com^
+||game.24h.com.vn^&third-party
 ||log.news.zing.vn^
 ||fptad.com^
 ||mookie1.com^
@@ -35,4 +37,4 @@
 ||channelvn.net^
 ||ad.org.vn^
 ||adap.tv^
-||collagenbeauty.vn^
+||collagenbeauty.vn^&third-party
