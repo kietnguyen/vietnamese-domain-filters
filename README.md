@@ -2,7 +2,7 @@
 
 Domain filters for Vietnamese internet users.
 
-The filters include [ads filter](https://github.com/snhv/vietnamese-domain-filters/blob/master/ads) (to block advertisements, trackers, popups, and other annoyances) and [adults filter](https://github.com/snhv/vietnamese-domain-filters/blob/master/adults) (to block pornography, prostitution, dating, and other inappropriate sites).
+The filters include [ads filter](https://github.com/snhv/vietnamese-domain-filters/blob/master/ads) (to block advertisements, trackers, popups, and other annoyances) and [adults filter](https://github.com/snhv/vietnamese-domain-filters/blob/master/adults) (to block pornography, prostitution, gambling, and other inappropriate sites).
 
 The filters are recommended to be used with [uBlock](https://github.com/gorhill/uBlock) or [Adguard](https://github.com/AdguardTeam). To subscribe to these filters, please add the following raw file for [ads filter](https://raw.githubusercontent.com/snhv/vietnamese-domain-filters/master/ads) and [adults filter](https://raw.githubusercontent.com/snhv/vietnamese-domain-filters/master/adults).
 
