@@ -40,3 +40,4 @@
 ||channelvn.net^
 ||ad.org.vn^
 ||adap.tv^
+||addlog.thuvienphapluat.vn^
