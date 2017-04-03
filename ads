@@ -16,16 +16,19 @@
 ||st.f1.vnecdn.net^
 ||f37.img.vnecdn.net^
 ||f38.img.vnecdn.net^
-||raovat.vnecdn.net^
 ||shop.vnecdn.net^
+||raovat.vnecdn.net^
+||imgraovat.vnecdn.net^
+||straovat.vnecdn.net^
 ||raovat.vnexpress.net^
 ||shop.vnexpress.net^
 ||imgshop.vnexpress.net^
+||imgraovat.vnexpress.net^
 ||s.tuoitre.vn^	
 ||quangcao.thanhnien.vn^
 ||thongke.24h.com.vn^
 ||24hstatic.com^
-||game.24h.com.vn^&third-party
+||game.24h.com.vn^
 ||log.news.zing.vn^
 ||fptad.com^
 ||mookie1.com^
@@ -37,4 +40,3 @@
 ||channelvn.net^
 ||ad.org.vn^
 ||adap.tv^
-||collagenbeauty.vn^&third-party
